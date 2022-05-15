@@ -1,6 +1,6 @@
 <h1  align="center">
                                      Consulta Cep
-<img  alt="consultacep"  title="consulta cep"  src="hhttps://github.com/Jonaslunafreitas/ConsultaCEP/blob/master/Design%20sem%20nome%20(1).gif" />
+<img  alt="consultacep"  title="consulta cep"  src="https://github.com/Jonaslunafreitas/ConsultaCEP/blob/master/Design%20sem%20nome%20(1).gif" />
                                    
 </h1>
 
